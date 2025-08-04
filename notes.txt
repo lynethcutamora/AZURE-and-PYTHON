@@ -1,0 +1,19 @@
+azure notes
+
+subscription (getting started)
+-> resource group
+	- storage account -> container -> files
+	- dlake storage gen2 (enable hierarchical namespace) -> container -> files
+
+
+azure synapse analytics
+-> workspace - hold dw, lakes, and other features
+	- synapse studio - can query data from other workspace (connect external data)
+		-set account storage access -> add role assignment (read)
+
+synapse analytics studio
+-1. create external data source
+2. external file format
+3. external table (referencing data source and format)
+-need to set the source file access 
+-OR create dtabase scoped credential sasToken
