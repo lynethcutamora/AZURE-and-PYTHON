@@ -1,0 +1,3 @@
+Correlationid,Operationname,Status,Eventcategory,Level,Time,Subscription,Eventinitiatedby,Resourcetype,Resourcegroup,Resource
+5,Delete Namespace,Accepted,Administrative,Informational,2024-05-30T14:54:17.794Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.ServiceBus/namespaces,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.ServiceBus/namespaces/appnamespace1002030
+6,Delete hosting plan,Failed,Administrative,Error,2024-05-30T14:54:19.696Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.Web/serverFarms,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.Web/serverFarms/ASP-appgrp-8857
