@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Correlationid,Operationname,Status,Eventcategory,Level,Time,Subscription,Eventinitiatedby,Resourcetype,Resourcegroup,Resource
 3,Delete website,Started,Administrative,Informational,2024-05-30T14:54:15.595Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.Web/sites,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.Web/sites/CourseAPI-1000
 4,Delete SQL database,Started,Administrative,Informational,2024-05-30T14:54:15.613Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.Sql/servers/databases,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.Sql/servers/appserver400050/databases/appdb
+=======
+Correlationid,Operationname,Status,Eventcategory,Level,Time,Subscription,Eventinitiatedby,Resourcetype,Resourcegroup,Resource
+3,Delete website,Started,Administrative,Informational,2024-05-30T14:54:15.595Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.Web/sites,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.Web/sites/CourseAPI-1000
+4,Delete SQL database,Started,Administrative,Informational,2024-05-30T14:54:15.613Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.Sql/servers/databases,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.Sql/servers/appserver400050/databases/appdb
+>>>>>>> 9f0b5ffe1f26a21c1aaa5f0f39e46d394bcc364a

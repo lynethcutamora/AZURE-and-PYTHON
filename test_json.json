@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "employees": [
     {
@@ -20,3 +21,27 @@
     }
   ]
 }
+=======
+{
+  "employees": [
+    {
+      "name": "John Doe",
+      "age": 30,
+      "department": "Engineering",
+      "email": "john.doe@example.com"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "department": "Marketing",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "name": "Emily Johnson",
+      "age": 35,
+      "department": "Sales",
+      "email": "emily.johnson@example.com"
+    }
+  ]
+}
+>>>>>>> 9f0b5ffe1f26a21c1aaa5f0f39e46d394bcc364a

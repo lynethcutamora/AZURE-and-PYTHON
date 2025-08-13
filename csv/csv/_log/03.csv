@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Correlationid,Operationname,Status,Eventcategory,Level,Time,Subscription,Eventinitiatedby,Resourcetype,Resourcegroup,Resource
 5,Delete hosting plan,Started,Administrative,Informational,2024-05-30T14:54:15.618Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.Web/serverFarms,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.Web/serverFarms/ASP-appgrp-8857
+=======
+Correlationid,Operationname,Status,Eventcategory,Level,Time,Subscription,Eventinitiatedby,Resourcetype,Resourcegroup,Resource
+5,Delete hosting plan,Started,Administrative,Informational,2024-05-30T14:54:15.618Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.Web/serverFarms,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.Web/serverFarms/ASP-appgrp-8857
+>>>>>>> 9f0b5ffe1f26a21c1aaa5f0f39e46d394bcc364a
 6,Delete Container Registry,Started,Administrative,Informational,2024-05-30T14:54:15.619Z,387407e5-94af-45e7-b378-4d37af61c732,cloudlearning4000@gmail.com,Microsoft.ContainerRegistry/registries,app-grp,/subscriptions/387407e5-94af-45e7-b378-4d37af61c732/resourceGroups/app-grp/providers/Microsoft.ContainerRegistry/registries/appregistry200020
